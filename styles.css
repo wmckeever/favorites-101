@@ -1,8 +1,16 @@
+body{
+  background-color: whitesmoke;
+}
 h1 {
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
+  text-align: :left;
 }
-
-p {
+p, li {
   font-family: Arial, Helvetica, sans-serif;
+}
+strong {
+  color: blue;
+}
+.highlight {
+  color: red;
 }
